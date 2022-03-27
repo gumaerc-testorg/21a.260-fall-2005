@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 394534b3-f56b-e6e9-bd3b-51692d0430ae
 resourcetype: Document
 title: midterm_pap.pdf
 uid: 797d9bfe-a5be-477f-7f94-025ba138e508

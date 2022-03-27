@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 394534b3-f56b-e6e9-bd3b-51692d0430ae
 resourcetype: Document
 title: vivianli_mid.pdf
 uid: bb3af5f4-1d42-5f96-c804-f06e67cfc095
