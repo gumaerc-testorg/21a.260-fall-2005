@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on social relationships, modern Europe,
   and practice of touch.
 file: /courses/21a-260-culture-embodiment-and-the-senses-fall-2005/bb3af5f41d425f96c804f06e67cfc095_vivianli_mid.pdf
+file_size: 156254
 file_type: application/pdf
 learning_resource_types:
 - Assignments
