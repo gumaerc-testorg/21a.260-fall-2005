@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on sensory models, topic, and format
   and grading.
-file: /ol-ocw-studio-app/courses/21a-260-culture-embodiment-and-the-senses-fall-2005/797d9bfea5be477f7f94025ba138e508_midterm_pap.pdf
+file: /courses/21a-260-culture-embodiment-and-the-senses-fall-2005/797d9bfea5be477f7f94025ba138e508_midterm_pap.pdf
 file_size: 63676
 file_type: application/pdf
 learning_resource_types:
