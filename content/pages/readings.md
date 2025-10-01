@@ -28,13 +28,13 @@ Ramachandran, V. S., and Sandra Blakeslee. _Phantoms in the Brain: Probing the M
 Films
 -----
 
-Chevigny, Katy, and Julia Pimsleur. [_Journey to the West: Chinese Medicine Today_](http://www.imdb.com/title/tt0389056/). 57 min. 2001.
+Chevigny, Katy, and Julia Pimsleur. {{% resource_link "4ff5ab91-6894-4c71-a22e-dc37a78872cf" "_Journey to the West: Chinese Medicine Today_" %}}. 57 min. 2001.
 
-Wachowski, Andy, and Larry Wachowski. [_The Matrix_](http://www.imdb.com/title/tt0133093/). 136 min. 1999.
+Wachowski, Andy, and Larry Wachowski. {{% resource_link "79dc76a9-475b-4859-81bd-429c23a001aa" "_The Matrix_" %}}. 136 min. 1999.
 
-Reichle, Franz. [_The Knowledge of Healing_](http://www.imdb.com/title/tt0118179/). 89 min. 1997.
+Reichle, Franz. {{% resource_link "05c5b10f-d225-4edd-9264-8a95ca813759" "_The Knowledge of Healing_" %}}. 89 min. 1997.
 
-Lescot, Anne, and Laurence Magloire. [_Of Men and Gods_](http://www.imdb.com/title/tt0391059). 52 min. 2002.
+Lescot, Anne, and Laurence Magloire. {{% resource_link "368e51df-42be-4ab2-907d-77dd04ec7009" "_Of Men and Gods_" %}}. 52 min. 2002.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -90,7 +90,7 @@ _Lecture 3_
 
 Kuriyama, Shigehisa. _The Expressiveness of the Body and the Divergence of Greek and Chinese Medicine_. New York, NY: Zone Books, 1999, preface, and chapter 1, pp. 7-60. ISBN: 9780942299885.
 
-Chevigny, Katy, and Julia Pimsleur. [_Journey to the West: Chinese Medicine Today_](http://www.imdb.com/title/tt0389056/). 57 min. 2001.
+Chevigny, Katy, and Julia Pimsleur. {{% resource_link "4ff5ab91-6894-4c71-a22e-dc37a78872cf" "_Journey to the West: Chinese Medicine Today_" %}}. 57 min. 2001.
 
 _Lecture 4_
 
@@ -120,7 +120,7 @@ Descartes. "Discourse on the Method." In _The Philosophical Writings of Descarte
 
 Damasio, Antonio. "A Passion for Reasoning." Chapter 11 in _Descartes' Error: Emotion, Reason, and the Human Brain_. New York, NY: G.P. Putnam, 1994, pp. 244-252. ISBN: 9780399138942.
 
-Wachowski, Andy, and Larry Wachowski. [_The Matrix_](http://www.imdb.com/title/tt0133093/). 136 min. 1999. (Excerpts)
+Wachowski, Andy, and Larry Wachowski. {{% resource_link "79dc76a9-475b-4859-81bd-429c23a001aa" "_The Matrix_" %}}. 136 min. 1999. (Excerpts)
 
 _Lecture 7_
 
@@ -204,7 +204,7 @@ Csordas, Thomas J. "Somatic Modes of Attention." In _Body/Meaning/Healing._ Hamp
 
 Merleau-Ponty, Maurice. "Other Selves and the Human World." In _Phenomenology of Perception._ London, UK; New York, NY: Routledge, 2002, pp. 346-365. ISBN: 9780415278416.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262720212) Varela, Francisco J., Evan Thompson, and Eleanor Rosch. "What Do We Mean 'Human Experience'?" In _The Embodied Mind: Cognitive Science and Human Experience_. Cambridge, MA: MIT Press, 1992, pp. 15-33. ISBN: 9780262720212.
+{{% resource_link "bb5ea1df-ee1d-42eb-9eba-51835edf176c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Varela, Francisco J., Evan Thompson, and Eleanor Rosch. "What Do We Mean 'Human Experience'?" In _The Embodied Mind: Cognitive Science and Human Experience_. Cambridge, MA: MIT Press, 1992, pp. 15-33. ISBN: 9780262720212.
 
 
 {{< tdclose >}}
@@ -232,7 +232,7 @@ James, Erica. "Haunting Ghosts: Madness, Gender and Ensekirite in Haiti in the D
 
 Ms. Paul Farmer, "Sending Sickness: Sorcery, Politics, and Changing Concepts of AIDS in Rural Haiti." _Medical Anthropology Quarterly_ 1, no. 4 (March 1990): 6-27.
 
-Lescot, Anne, and Laurence Magloire. [_Of Men and Gods_](http://www.imdb.com/title/tt0391059). 52 min. 2002.
+Lescot, Anne, and Laurence Magloire. {{% resource_link "368e51df-42be-4ab2-907d-77dd04ec7009" "_Of Men and Gods_" %}}. 52 min. 2002.
 
 
 {{< tdclose >}}
@@ -252,13 +252,13 @@ _Lecture 15_
 
 Desjarlais, Robert R. _Body and Emotion: The Aesthetics of Illness and Healing in the Nepal Himalayas._ Philadelphia, PA: University of Pennsylvania Press, 1992, chapters 1-2, pp. 3-89. ISBN: 9780812214345.
 
-Reichle, Franz. [_The Knowledge of Healing_](http://www.imdb.com/title/tt0118179/). 89 min. 1997.
+Reichle, Franz. {{% resource_link "05c5b10f-d225-4edd-9264-8a95ca813759" "_The Knowledge of Healing_" %}}. 89 min. 1997.
 
 _Lecture 16_
 
 Desjarlais, Robert. _Body and Emotion: The Aesthetics of Illness and Healing in the Nepal Himalayas._ Philadelphia, PA: University of Pennsylvania Press, 1992, chapters 4-7, pp. 90-197. ISBN: 9780812214345.
 
-Reichle, Franz. [_The Knowledge of Healing_](http://www.imdb.com/title/tt0118179/). 89 min. 1997.
+Reichle, Franz. {{% resource_link "05c5b10f-d225-4edd-9264-8a95ca813759" "_The Knowledge of Healing_" %}}. 89 min. 1997.
 
 _Lecture 17_
 
@@ -310,7 +310,7 @@ Mind-Body Medicine, Research and the State
 
 _Lecture 25_
 
-NCCAM. Expanding Horizons of Healthcare: Five-Year Strategic Plan 2005-2009. ([PDF - 9.9MB](http://nccam.nih.gov/sites/nccam.nih.gov/files/about/plans/2005/strategicplan.pdf))
+NCCAM. Expanding Horizons of Healthcare: Five-Year Strategic Plan 2005-2009. ({{% resource_link "2e470c49-ef59-40fb-afd3-3e050b4f1f8c" "PDF - 9.9MB" %}})
 
 Ramachandran, V. S., and Sandra Blakeslee. _Phantoms in the Brain: Probing the Mysteries of the Human Mind._ New York, NY: William Morrow, 1998, chapters 3, and 11, pp. 39-62, and 212-226. ISBN: 9780688152475.
 
